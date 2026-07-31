@@ -1,0 +1,450 @@
+[
+  {
+    "id": "song_01",
+    "name": "5 20AM",
+    "path": "chinese_music/5_20AM - Dao Tương _ 5_20AM - 刀酱 (320 kbps).mp3",
+    "category": "Nhạc Trung",
+    "tags": ["520am", "dao tuong"]
+  },
+  {
+    "id": "song_02",
+    "name": "Ái Thương",
+    "path": "chinese_music/Ái Thương (爱伤) - Tiểu Thời (小时姑娘) ft. Gong Tuan (Gong整) _ OST Đông Cung.mp3",
+    "category": "Nhạc Trung",
+    "tags": ["ai thuong", "dong cung"]
+  },
+  {
+    "id": "song_03",
+    "name": "Áng mây sẽ nở hoa",
+    "path": "chinese_music/Áng mây sẽ nở hoa - Vương Việt An _ 会开花的云 - 王越安.mp3",
+    "category": "Nhạc Trung",
+    "tags": ["ang may se no hoa", "vuong viet an"]
+  },
+  {
+    "id": "song_04",
+    "name": "Bất Vấn Biệt Ly",
+    "path": "chinese_music/Bất Vấn Biệt Ly - Chỉ Tiêm Tiếu _ 指尖笑 - 不问别离.mp3",
+    "category": "Nhạc Trung",
+    "tags": ["bat van biet ly", "chi tiam tieu"]
+  },
+  {
+    "id": "song_05",
+    "name": "Bất vị hiệp",
+    "path": "chinese_music/Bất vị hiệp (不谓侠) - Tiêu Ức Tình.mp3",
+    "category": "Nhạc Trung",
+    "tags": ["bat vi hiep", "tieu uc tinh"]
+  },
+  {
+    "id": "song_06",
+    "name": "Bích Thượng Quan Đặng Ngụ Quân",
+    "path": "chinese_music/Bích Thượng Quan Đặng Ngụ Quân 壁上观 邓寓君.mp3",
+    "category": "Nhạc Trung",
+    "tags": ["bich thuong quan", "deng yu jun"]
+  },
+  {
+    "id": "song_07",
+    "name": "Biển và trời",
+    "path": "chinese_music/Biển và trời - Dư Hựu __ 海与天 - 余又.mp3",
+    "category": "Nhạc Trung",
+    "tags": ["bien va troi", "du huu"]
+  },
+  {
+    "id": "song_08",
+    "name": "Cô Thành",
+    "path": "chinese_music/Cô Thành - Lạc Tiên Sinh _ 孤城 - 洛先生 (320 kbps).mp3",
+    "category": "Nhạc Trung",
+    "tags": ["co thanh", "lac tien sinh"]
+  },
+  {
+    "id": "song_09",
+    "name": "Cửu Trượng Cơ",
+    "path": "chinese_music/Cửu Trượng Cơ - Diệp Huyền Thanh _ Nhạc Phim Song Thế Sủng Phi 3 _ 九张机 - 叶炫清 _ 双世宠妃三 OST.mp3",
+    "category": "Nhạc Trung",
+    "tags": ["cuu truong co", "song the sung phi"]
+  },
+  {
+    "id": "song_10",
+    "name": "Đào hoa nặc",
+    "path": "chinese_music/Đào hoa nặc - Đặng Tử Kỳ 《Thượng cổ tình ca OST》.mp3",
+    "category": "Nhạc Trung",
+    "tags": ["dao hoa nac", "dang tu ky"]
+  },
+  {
+    "id": "song_11",
+    "name": "Đào Hoa Tiếu Cẩm Linh",
+    "path": "chinese_music/Đào Hoa Tiếu - Cẩm Linh _ 桃花笑 - 锦零.mp3",
+    "category": "Nhạc Trung",
+    "tags": ["dao hoa tieu", "cam linh"]
+  },
+  {
+    "id": "song_12",
+    "name": "Đào hoa tiếu Uông Duệ",
+    "path": "chinese_music/Đào hoa tiếu - Uông Duệ _ 桃花笑 - 汪睿.mp3",
+    "category": "Nhạc Trung",
+    "tags": ["dao hoa tieu", "uong due"]
+  },
+  {
+    "id": "song_13",
+    "name": "Đối tửu",
+    "path": "chinese_music/Đối tửu - Thiền Ảnh A _ 对酒 - 禅影阿.mp3",
+    "category": "Nhạc Trung",
+    "tags": ["doi tuu", "thien anh a"]
+  },
+  {
+    "id": "song_14",
+    "name": "Giới",
+    "path": "chinese_music/Giới - Viên Á Duy _ 界 - 袁娅维 TIA RAY _ 长月烬明 OST.mp3",
+    "category": "Nhạc Trung",
+    "tags": ["gioi", "vien a duy", "truong nguyet tan minh"]
+  },
+  {
+    "id": "song_15",
+    "name": "Hắc nguyệt quang",
+    "path": "chinese_music/Hắc nguyệt quang - Trương Bích Thần ft Mao Bất Dịch _ 黑月光 - 张碧晨 ft 毛不易 _ 长月烬明 OST.mp3",
+    "category": "Nhạc Trung",
+    "tags": ["hac nguyet quang", "truong bich than", "mao bat dich"]
+  },
+  {
+    "id": "song_16",
+    "name": "Hay là chúng ta cứ như vậy một vạn năm",
+    "path": "chinese_music/Hay là chúng ta cứ như vậy một vạn năm - Hoàng Tiêu Vân _ 要不然我们就这样一万年 - 黄霄雲 ((长月烬明)).mp3",
+    "category": "Nhạc Trung",
+    "tags": ["hay la chung ta cu nhu vay mot van nam", "hoang tieu van"]
+  },
+  {
+    "id": "song_17",
+    "name": "Hỉ",
+    "path": "chinese_music/Hỉ - Cát Đông Kỳ _ 喜 - 葛东琪.mp3",
+    "category": "Nhạc Trung",
+    "tags": ["hi", "cat dong ky"]
+  },
+  {
+    "id": "song_18",
+    "name": "Họa tình",
+    "path": "chinese_music/Họa tình 画情 Diêu Bối Na 姚贝娜.mp3",
+    "category": "Nhạc Trung",
+    "tags": ["hoa tinh", "dieu boi na"]
+  },
+  {
+    "id": "song_19",
+    "name": "Hoang",
+    "path": "chinese_music/Hoang - Trịnh Ngư (OST Thế Giới Hoàn Mỹ).mp3",
+    "category": "Nhạc Trung",
+    "tags": ["hoang", "trinh ngu", "the gioi hoan my"]
+  },
+  {
+    "id": "song_20",
+    "name": "Hồng Mã",
+    "path": "chinese_music/Hồng Mã - Hứa Lam Tâm _ 红马 (女版) － 许岚心.mp3",
+    "category": "Nhạc Trung",
+    "tags": ["hong ma", "hua lam tam"]
+  },
+  {
+    "id": "song_21",
+    "name": "Jade Dynasty Tian Shui Ballad",
+    "path": "chinese_music/Jade Dynasty 诛仙 天水谣 动手霸 Tian Shui Ballad.mp3",
+    "category": "Nhạc Trung",
+    "tags": ["jade dynasty", "tru tien", "thien thuy dao"]
+  },
+  {
+    "id": "song_22",
+    "name": "Khiển Tí Hỷ",
+    "path": "chinese_music/Khiển Tí Hỷ - Ngạn A Kiet _ 牵丝戏 - 银临 & Aki阿杰.mp3",
+    "category": "Nhạc Trung",
+    "tags": ["khien ti hy", "khiem ty hi", "ngan a kiet"]
+  },
+  {
+    "id": "song_23",
+    "name": "Khống Thần Hề",
+    "path": "chinese_music/Khống Thần Hề - Ngạo Thất Gia(Ao Qi Ye) _ 空叹兮 - 做七爷.mp3",
+    "category": "Nhạc Trung",
+    "tags": ["khong than he", "ngao that gia"]
+  },
+  {
+    "id": "song_24",
+    "name": "Kiếm Lai OST",
+    "path": "chinese_music/KIẾM LAI OST TRI NGẢ HIỂU TA VIETSUB JianLai 剑来.mp3",
+    "category": "Nhạc Trung",
+    "tags": ["kiem lai", "jian lai"]
+  },
+  {
+    "id": "song_25",
+    "name": "Kiến thức nông cạn",
+    "path": "chinese_music/Kiến thức nông cạn - Trịnh Hướng _ 短见薄识 - 程响.mp3",
+    "category": "Nhạc Trung",
+    "tags": ["kien thuc nong can", "trinh huong"]
+  },
+  {
+    "id": "song_26",
+    "name": "Lạc",
+    "path": "chinese_music/Lạc - Đường Bá Hổ Annic _ 落 - 唐伯虎Annic.mp3",
+    "category": "Nhạc Trung",
+    "tags": ["lac", "duong ba ho"]
+  },
+  {
+    "id": "song_27",
+    "name": "Ly nhân phú",
+    "path": "chinese_music/Ly nhân phú - Vân Tích _ 离人赋 - 云汐.mp3",
+    "category": "Nhạc Trung",
+    "tags": ["ly nhan phu", "van tich"]
+  },
+  {
+    "id": "song_28",
+    "name": "Một Đường Nở Hoa",
+    "path": "chinese_music/Một Đường Nở Hoa - Ôn Dịch Lâm _ 一路生花 - 温奕心.mp3",
+    "category": "Nhạc Trung",
+    "tags": ["mot duong no hoa", "on dich lam"]
+  },
+  {
+    "id": "song_29",
+    "name": "Nam Sơn Tuyết",
+    "path": "chinese_music/Nam Sơn Tuyết - Diệp Lý _ 南山雪 - 叶里.mp3",
+    "category": "Nhạc Trung",
+    "tags": ["nam son tuyet", "diep ly"]
+  },
+  {
+    "id": "song_30",
+    "name": "Ngu Hề Thán",
+    "path": "chinese_music/Ngu Hề Thán - Văn Nhân Thính Thư _ 虞兮叹 - 闻人听書.mp3",
+    "category": "Nhạc Trung",
+    "tags": ["ngu he than", "van nhan thinh thu"]
+  },
+  {
+    "id": "song_31",
+    "name": "Nguyệt tẫn vô thanh",
+    "path": "chinese_music/Nguyệt tẫn vô thanh - Hồ Ngạn Bân _ 月尽无声 - 胡彦斌 - 长月烬明 OST.mp3",
+    "category": "Nhạc Trung",
+    "tags": ["nguyet tan vo thanh", "ho ngan ban"]
+  },
+  {
+    "id": "song_32",
+    "name": "Nhạc Tân Người Cùng Tan",
+    "path": "chinese_music/Nhạc Tân Người Cùng Tan - Trạch Điển _ 曲终人亦散 - 泽典.mp3",
+    "category": "Nhạc Trung",
+    "tags": ["nhac tan nguoi cung tan", "trach dien"]
+  },
+  {
+    "id": "song_33",
+    "name": "Nhân Gian Kinh Hồng Khách",
+    "path": "chinese_music/Nhân Gian Kinh Hồng Khách - Diệp Lý _ 人间惊鸿客 - 叶里.mp3",
+    "category": "Nhạc Trung",
+    "tags": ["nhan gian kinh hong khach", "diep ly"]
+  },
+  {
+    "id": "song_34",
+    "name": "Như Nguyện",
+    "path": "chinese_music/Như Nguyện - Vương Phỉ _ 如愿 - 王菲.mp3",
+    "category": "Nhạc Trung",
+    "tags": ["nhu nguyen", "vuong phi"]
+  },
+  {
+    "id": "song_35",
+    "name": "Nợ Uyên Ương",
+    "path": "chinese_music/Nợ Uyên Ương - OST Game Mobile Kinh Dị IQ 《Chỉ Giá Y 3 Uyên Ương Trái》_鸳鸯债 - 纸嫁衣3鸳鸯债.mp3",
+    "category": "Nhạc Trung",
+    "tags": ["no uyen uong", "chi gia y 3"]
+  },
+  {
+    "id": "song_36",
+    "name": "Nổi gió rồi",
+    "path": "chinese_music/Nổi gió rồi - Châu Thâm.mp3",
+    "category": "Nhạc Trung",
+    "tags": ["noi gio roi", "chau tham"]
+  },
+  {
+    "id": "song_37",
+    "name": "Phong diệp thành",
+    "path": "chinese_music/Phong diệp thành (Thành lá phong) - Bunnyi_11 枫叶城 - Bunnyi_11.mp3",
+    "category": "Nhạc Trung",
+    "tags": ["phong diep thanh", "bunnyi 11"]
+  },
+  {
+    "id": "song_38",
+    "name": "Quạ đen nói lời yêu thương",
+    "path": "chinese_music/Quạ đen nói lời yêu thương 乌鸦说情话 Quý Ngạn Lâm 季彦霖 如果乌鸦说情话 铁树开严花 你会不会来爱我.mp3",
+    "category": "Nhạc Trung",
+    "tags": ["qua den noi loi yeu thuong", "quy ngan lam"]
+  },
+  {
+    "id": "song_39",
+    "name": "Quẻ bói",
+    "path": "chinese_music/Quẻ bói - Thôi Tử Cách.mp3",
+    "category": "Nhạc Trung",
+    "tags": ["que boi", "thoi tu cach"]
+  },
+  {
+    "id": "song_40",
+    "name": "Sứ Thanh Hoa",
+    "path": "chinese_music/Sứ Thanh Hoa (青花瓷) - SimYee 沁心怡 (Trần Tâm Di) Cover Tiếng Quảng Đông.mp3",
+    "category": "Nhạc Trung",
+    "tags": ["su thanh hoa", "simyee"]
+  },
+  {
+    "id": "song_41",
+    "name": "Ta lên Trường An Chàng lên Cổ Lý",
+    "path": "chinese_music/Ta lên Trường An, Chàng lên Cổ Lý - Doãn Tích Miền_ Tiêu Điền Âm Nhạc Xã _我叫长安,你叫故里.mp3",
+    "category": "Nhạc Trung",
+    "tags": ["ta len truong an chang len co ly", "doan tich mien"]
+  },
+  {
+    "id": "song_42",
+    "name": "Tam Bái Hồng Trần Lương",
+    "path": "chinese_music/Tam Bái Hồng Trần Lương - Doãn Tích Miền _ 三拜红尘凉 - 尹昔眠.mp3",
+    "category": "Nhạc Trung",
+    "tags": ["tam bai hong tran luong", "doan tich mien"]
+  },
+  {
+    "id": "song_43",
+    "name": "Tam Thôn Thiên Đường",
+    "path": "chinese_music/TAM THÔN THIÊN ĐƯỜNG - Nghiêm Nghệ Đan (Bộ Bộ Kinh Tâm OST).mp3",
+    "category": "Nhạc Trung",
+    "tags": ["tam thon thien duong", "bo bo kinh tam"]
+  },
+  {
+    "id": "song_44",
+    "name": "Táng Tiên",
+    "path": "chinese_music/Táng Tiên (葬仙) - Diệp Lý ft Uyển Xả (叶里&宛舍).mp3",
+    "category": "Nhạc Trung",
+    "tags": ["tang tien", "diep ly"]
+  },
+  {
+    "id": "song_45",
+    "name": "Tây Lâu Biệt Tự",
+    "path": "chinese_music/Tây Lâu Biệt Tự - Doãn Tích Miền_Tiêu Điền Âm Nhạc Xã _ 西楼别序 - 尹昔眠_小田音乐社.mp3",
+    "category": "Nhạc Trung",
+    "tags": ["tay lau biet tu", "doan tich mien"]
+  },
+  {
+    "id": "song_46",
+    "name": "Thẩm viên ngoại",
+    "path": "chinese_music/Thẩm viên ngoại 沈园外 - A Yue Yue ft Lệ Cách _ 阿YueYue ft 戾格.mp3",
+    "category": "Nhạc Trung",
+    "tags": ["tham vien ngoai", "a yue yue"]
+  },
+  {
+    "id": "song_47",
+    "name": "Thần Vân Hề",
+    "path": "chinese_music/Thần Vân Hề - Cúc Tịnh Y _ 叹云兮 - 鞠婧祎 (OST Vân Tịch Truyện).mp3",
+    "category": "Nhạc Trung",
+    "tags": ["than van he", "cuc tinh y", "van tich truyen"]
+  },
+  {
+    "id": "song_48",
+    "name": "Thật Cố Chấp Remix",
+    "path": "chinese_music/Thật Cố Chấp Remix - Thiên Bách Thuận _ EDM Tik Tok Trung Gây Nghiện _ 抖音丨很任性 - 千百顺 (D抖音版).mp3",
+    "category": "Nhạc Trung",
+    "tags": ["that co chap", "thien bach thuan"]
+  },
+  {
+    "id": "song_49",
+    "name": "Thật ra chẳng có gì",
+    "path": "chinese_music/Thật ra chẳng có gì - Vũ Đồng Nhiên (Cover) _ 其实都没有 - 于冬然.mp3",
+    "category": "Nhạc Trung",
+    "tags": ["that ra chang co gi", "vu dong nhien"]
+  },
+  {
+    "id": "song_50",
+    "name": "Thiên Hạ",
+    "path": "chinese_music/Thiên Hạ - Trương Kiệt (天下 - 张杰).mp3",
+    "category": "Nhạc Trung",
+    "tags": ["thien ha", "truong kiet"]
+  },
+  {
+    "id": "song_51",
+    "name": "Thu Thương Biệt Luyện",
+    "path": "chinese_music/Thu Thương Biệt Luyện - Nhu Mễ Nomi (Bản Kháng Giọng Nữ) 秋爽别恋 (女声戏腔版) - 糯米Nomi.mp3",
+    "category": "Nhạc Trung",
+    "tags": ["thu thuong biet luyen", "nomi"]
+  },
+  {
+    "id": "song_52",
+    "name": "Tỉnh Lạc Ngưng Thành Đường",
+    "path": "chinese_music/Tỉnh Lạc Ngưng Thành Đường - Tát Đỉnh Đỉnh _ 星落凝成糖 - 萨顶顶.mp3",
+    "category": "Nhạc Trung",
+    "tags": ["tinh lac ngung thanh duong", "tat dinh dinh"]
+  },
+  {
+    "id": "song_53",
+    "name": "Tình nguyệt lạc",
+    "path": "chinese_music/Tình nguyệt lạc - Phù Sinh Mộng _ 星月落 - 浮生梦.mp3",
+    "category": "Nhạc Trung",
+    "tags": ["tinh nguyet lac", "phu sinh mong"]
+  },
+  {
+    "id": "song_54",
+    "name": "Tình Yêu Khó Cầu",
+    "path": "chinese_music/Tình Yêu Khó Cầu (一爱难求) - Từ Giai Oánh (徐佳莹) - Ost Phù Dao Hoàng Hậu.mp3",
+    "category": "Nhạc Trung",
+    "tags": ["tinh yeu kho cau", "tu gia oanh", "phu dao hoang hau"]
+  },
+  {
+    "id": "song_55",
+    "name": "Tô Công Đề",
+    "path": "chinese_music/Tô Công Đề - Dương Nhất Ca _ 苏公堤 - 杨一歌.mp3",
+    "category": "Nhạc Trung",
+    "tags": ["to cong de", "duong nhat ca"]
+  },
+  {
+    "id": "song_56",
+    "name": "Tô Mạc Giả Trương Hiểu Đường",
+    "path": "chinese_music/Tô Mạc Giả Trương Hiểu Đường 苏幕遮 张晓棠.mp3",
+    "category": "Nhạc Trung",
+    "tags": ["to mac gia", "truong hieu duong"]
+  },
+  {
+    "id": "song_57",
+    "name": "VẪN DẠ VŨ VẪN HẢI ĐƯỜNG",
+    "path": "chinese_music/VẪN DẠ VŨ VẪN HẢI ĐƯỜNG_ Bản thuần ca 《Husky và sư tôn mèo trắng của hắn》_ 昨夜微雨问海棠.mp3",
+    "category": "Nhạc Trung",
+    "tags": ["van da vu van hai duong", "husky va su ton meo trang cua han"]
+  },
+  {
+    "id": "song_58",
+    "name": "Vì người mà đến",
+    "path": "chinese_music/Vì người mà đến - Viên Á Duy _ 为你而来 - 袁娅维 _ Mộng Hồi Đại Thanh OST.mp3",
+    "category": "Nhạc Trung",
+    "tags": ["vi nguoi ma den", "vien a duy", "mong hoi dai thanh"]
+  },
+  {
+    "id": "song_59",
+    "name": "Xích Linh",
+    "path": "chinese_music/Xích Linh - Chấp Tố Hề _ 赤伶 (戏腔歌词lyrics) (抖音 TikTok).mp3",
+    "category": "Nhạc Trung",
+    "tags": ["xich linh", "chap to he"]
+  },
+  {
+    "id": "song_60",
+    "name": "Yến Vô Hiệt",
+    "path": "chinese_music/Yến Vô Hiệt - Tưởng Tuyết Nhi _ 燕无歇 - 蒋雪儿.mp3",
+    "category": "Nhạc Trung",
+    "tags": ["yen vo hiet", "tuong tuyet nhi"]
+  },
+  {
+    "id": "song_61",
+    "name": "Thật Cố Chấp 0.8X",
+    "path": "chinese_music/很任性 0.8X (D抖音版 2023) Thật Cố Chấp (Remix Tiktok) _ Hot Tiktok Douyin.mp3",
+    "category": "Nhạc Trung",
+    "tags": ["that co chap", "hen ren xing"]
+  },
+  {
+    "id": "song_62",
+    "name": "Cổ Phong Khúc",
+    "path": "chinese_music/古风歌曲《遇萤》泛美姬人，三世守护，只愿与你不再分离.mp3",
+    "category": "Nhạc Trung",
+    "tags": ["co phong khu", "yu ying"]
+  },
+  {
+    "id": "song_63",
+    "name": "Song diện Yến Tuân",
+    "path": "chinese_music/双面燕洵 _ Song diện Yến Tuân _ Bản Nhật Diện.mp3",
+    "category": "Nhạc Trung",
+    "tags": ["song dien yen tuan"]
+  },
+  {
+    "id": "song_64",
+    "name": "Trong Tiếng Hát Của Em",
+    "path": "chinese_music/我的歌声里 Trong Tiếng Hát Của Em.mp3",
+    "category": "Nhạc Trung",
+    "tags": ["trong tieng hat cua em", "wo de ge sheng li"]
+  }
+]
