@@ -14,14 +14,15 @@ def remove_accents(input_str):
     nfkd_form = unicodedata.normalize('NFKD', input_str)
     return "".join([c for c in nfkd_form if not unicodedata.combining(c)]).lower()
 
-@app.route('/api', methods=['GET'])
+# Khai báo Route chấp nhận cả / và /api
 @app.route('/', methods=['GET'])
+@app.route('/api', methods=['GET'])
 def search_music():
     raw_keyword = request.args.get('q', '').strip()
     clean_keyword = remove_accents(raw_keyword)
 
     if not clean_keyword:
-        return jsonify({"status": "error", "message": "Vui lòng nhập từ khóa ?q="}), 400
+        return jsonify({"status": "error", "message": "Thieu tu khoa ?q="}), 400
 
     try:
         req = urllib.request.Request(INDEX_URL, headers={'User-Agent': 'Mozilla/5.0'})
@@ -44,10 +45,11 @@ def search_music():
                     "url": full_url
                 })
 
-        return jsonify({
-            "status": "not_found",
-            "message": f"Không tìm thấy bài hát nào cho từ khóa: {raw_keyword}"
-        }), 404
+        return jsonify({"status": "not_found", "message": f"Khong tim thay: {raw_keyword}"}), 404
 
     except Exception as e:
         return jsonify({"status": "error", "message": str(e)}), 500
+
+# Dòng này chỉ để chạy local, Vercel sẽ tự động import biến `app` ở trên
+if __name__ == '__main__':
+    app.run(port=5000, debug=True)
